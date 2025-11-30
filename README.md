@@ -1,2 +1,2 @@
 # Git Practice Repo
-Learning Git & GitHub for DevOps.
+Learning Git & GitHub for DevOps - from feature branch
